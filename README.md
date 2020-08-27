@@ -48,7 +48,7 @@ Essa será uma aplicação para armazenar repositórios do seu portfólio, que i
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/lucasbaquinoo/gostack-conceitos-nodejs/blob/master/LICENSE) para mais detalhes.
 
 ---
 
